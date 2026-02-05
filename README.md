@@ -58,7 +58,7 @@ Netflix Movies and TV Shows dataset (Kaggle) - https://www.kaggle.com/datasets/s
 - Maintain fresh content additions
 
 ## Project Files
-- `Netflix_Project.ipynb` – Complete EDA notebook
+- `Netflix_Content_Analysis.ipynb` – Complete EDA notebook
 
 
 ## Author
