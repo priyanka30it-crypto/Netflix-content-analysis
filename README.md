@@ -10,7 +10,7 @@ This project analyzes Netflix’s content library to uncover trends in movies an
 - Provide data-driven business recommendations
 
 ## Dataset
-Netflix Movies and TV Shows dataset (Kaggle)
+Netflix Movies and TV Shows dataset (Kaggle) - https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv
 
 ## Tools Used
 - Python
