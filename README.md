@@ -18,6 +18,32 @@ Netflix Movies and TV Shows dataset (Kaggle) - https://www.kaggle.com/datasets/s
 - Matplotlib, Seaborn
 - Google Colab / Jupyter Notebook
 
+## Project Workflow
+
+1. Data Cleaning & Preprocessing  
+   - Handled missing values  
+   - Standardized date formats  
+   - Extracted useful columns  
+
+2. Feature Engineering  
+   - Derived release trends  
+   - Created categorical insights  
+
+3. Exploratory Data Analysis  
+   - Content type distribution  
+   - Country-wise content analysis  
+   - Genre popularity analysis  
+   - Release year trends  
+
+4. Visualization  
+   - Used Matplotlib and Seaborn to create charts and trend analysis  
+
+5. Business Insights & Recommendations  
+   - Identified content growth trends  
+   - Suggested release timing strategies  
+   - Highlighted high-performing genres and regions  
+
+
 ## Key Insights
 - Movies dominate Netflix’s content library
 - July–December is the best period for content releases
